@@ -1,0 +1,22 @@
+{
+  "on_boarding_title_1": "Welcome to Wingu! The most accurate and reliable weather forecasts across the globe",
+  "on_boarding_title_2": "A detailed weather index alerts you about threats like extreme storms, helping you stay safe",
+  "on_boarding_title_3": "Set your location anywhere in the globe and see the updated forecast about the weather",
+  "today": "Today",
+  "week": "This Week",
+  "settings": "Settings",
+  "notification": "Notification",
+  "language": "Language",
+  "language_type": "English",
+  "notiy_exp": "Daily Notification",
+  "location": "Location",
+  "humidity": "Humidity",
+  "pressure": "Pressure",
+  "speed": "Speed",
+  "Clouds": "Clouds",
+  "Rain": "Rain",
+  "Wind": "Wind",
+  "Sun": "Sun",
+  "Clear": "Clear",
+  "Thunderstorm": "Thunderstorm"
+}
