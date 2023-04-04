@@ -57,9 +57,11 @@ Wingu is released under the MIT License. You can find a copy of the license in t
 
 If you have any questions, feedback, or issues with the Weather App, please contact us at [codehomiedev@gmail.com](mailto:codehomiedev@gmail.com).
 
-![Screenshot 2023-04-04 162141](https://user-images.githubusercontent.com/48721096/229806193-02089897-2e9b-41ce-b4ca-fb55d827736d.png)
-![Screenshot 2023-04-04 145048](https://user-images.githubusercontent.com/48721096/229783126-2e5dba67-b08e-4646-8f1d-276806457aac.png)
-![Screenshot 2023-04-04 144407](https://user-images.githubusercontent.com/48721096/229781579-2bd01492-9b09-4067-bb0f-cf44e49aca28.png)
-![Screenshot 2023-04-04 161006](https://user-images.githubusercontent.com/48721096/229803147-4e56151f-b028-4c41-b63e-635564fbbcc2.png)
-![Screenshot 2023-04-04 161351](https://user-images.githubusercontent.com/48721096/229803227-2e854616-a4ec-4666-b130-4cd1dd6d2b3d.png)
-![Screenshot 2023-04-04 161749](https://user-images.githubusercontent.com/48721096/229804697-35d78e89-b5bb-47c9-be3a-deece7fb6c6d.png)
+
+![Screenshot 2023-04-04 162141](https://user-images.githubusercontent.com/48721096/229823891-22ce1410-d143-4dac-be35-4a25da083a92.png)
+![Screenshot 2023-04-04 145048](https://user-images.githubusercontent.com/48721096/229824111-85e53bd3-d3a7-45db-ab4c-f507b212643c.png)
+![new+home](https://user-images.githubusercontent.com/48721096/229823954-1d1aab65-cca5-4d3b-a928-074ec320948b.png)
+![Screenshot 2023-04-04 161006](https://user-images.githubusercontent.com/48721096/229824070-cab87596-857c-4f98-9156-5066f36b73b4.png)
+
+![Screenshot 2023-04-04 161351](https://user-images.githubusercontent.com/48721096/229824411-ccd71eaa-6cdb-49f9-bc9c-d353613981ba.png)
+![Screenshot 2023-04-04 161749](https://user-images.githubusercontent.com/48721096/229824470-3cf7f63d-48de-4657-9002-0d79152c5b16.png)
