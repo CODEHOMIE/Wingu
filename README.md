@@ -62,6 +62,5 @@ If you have any questions, feedback, or issues with the Weather App, please cont
 ![Screenshot 2023-04-04 145048](https://user-images.githubusercontent.com/48721096/229824111-85e53bd3-d3a7-45db-ab4c-f507b212643c.png)
 ![new+home](https://user-images.githubusercontent.com/48721096/229823954-1d1aab65-cca5-4d3b-a928-074ec320948b.png)
 ![Screenshot 2023-04-04 161006](https://user-images.githubusercontent.com/48721096/229824070-cab87596-857c-4f98-9156-5066f36b73b4.png)
-
 ![Screenshot 2023-04-04 161351](https://user-images.githubusercontent.com/48721096/229824411-ccd71eaa-6cdb-49f9-bc9c-d353613981ba.png)
 ![Screenshot 2023-04-04 161749](https://user-images.githubusercontent.com/48721096/229824470-3cf7f63d-48de-4657-9002-0d79152c5b16.png)
